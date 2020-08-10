@@ -4,4 +4,6 @@ Este archivo se crea el 10 de agosto
 
 vamos a hacerle cambios  proximamente
 
+este cambio para probar el checkout
+
 
